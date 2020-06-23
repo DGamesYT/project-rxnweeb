@@ -196,4 +196,4 @@ async def stop(ctx):
 
 
 
-client.run(BOT_TOKEN)
+client.run("NzI0ODU5MjIxMDA2NjE0NTc5.XvGTzg.P71VRR8sCrdxKuxlqlhy7KjhbVk")
